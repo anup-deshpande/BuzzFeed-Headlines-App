@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InClass05</string>
+    <string name="headline_label">Headline</string>
+    <string name="date_label">Published on:</string>
+    <string name="quit_btn">Quit</string>
+    <string name="desc_label">Description</string>
+</resources>
